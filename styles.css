@@ -1,2 +1,30 @@
 
-/* Your CSS Code here. */
+.main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    padding: 10px
+    
+}
+table{
+    border-color: black;
+}
+#table-1{
+    border: 1px;
+    border-color: black;
+}
+#header-1{
+    text-align: left;
+    background-color: rgb(169,74,72);
+}
+#header-2{
+    text-align: right;
+    background-color: rgb(192,134,132);
+}
+#header-3{
+    text-align: right;
+    background-color: rgb(212,193,192);
+}
+#header-4{
+    text-align: right;
+    background-color: rgb(191,191,191);
+}
